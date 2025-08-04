@@ -1,3 +1,4 @@
+# AI Projects: Patient Readmission & Fake News Trend Prediction
 AI Projects: Patient Readmission & Fake News Trend Prediction
 This repository contains two AI-powered projects that address real-world problems in healthcare and media integrity:
 
